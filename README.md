@@ -1,24 +1,24 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Costume Shop
 
-Things you may want to cover:
 
-* Ruby version
+This is the code for our Costume Shop Web App constructed using React.js and Ruby on Rails.
+## Features
 
-* System dependencies
+- Responsive React.js user interface 
+- User has the ability to add items to cart and see total.
+- User can select items they want in specified quantity 
+- Secure user login enables each cart is unique to the user.
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## 🛠 Skills
+Javascript, React.js, React Hooks, Ruby on Rails, Active storage, Authentication.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Tech Stack
 
-* Deployment instructions
+**Client:** React, Javascript
 
-* ...
+**Server:** Ruby on Rails 
+
